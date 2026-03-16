@@ -92,7 +92,7 @@ These insights can help businesses design better **customer retention strategies
 
 ---
 
-## Tools & Technologies Used
+## 🛠 Tools & Technologies Used
 
 * Python
 * Pandas
