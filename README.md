@@ -139,7 +139,7 @@ jupyter notebook
 
 ---
 
-## Future Improvements
+## 🔮 Future Improvements
 
 * Build a **machine learning model** to predict churn
 * Perform **feature engineering**
