@@ -1,6 +1,8 @@
 # 🔍 Customer Churn Analysis Project | Exploratory Data Analysis with Python
 
-![Customer Churn Service Analysis](assests/service_churn_analysis.png)
+<p align="center">
+  <img src="assests/service_churn_analysis.png" width="600" alt="Churn Analysis">
+</p>
 
 ![Python](https://img.shields.io/badge/Python-3.x-blue)
 ![Pandas](https://img.shields.io/badge/Pandas-Data%20Analysis-purple)
