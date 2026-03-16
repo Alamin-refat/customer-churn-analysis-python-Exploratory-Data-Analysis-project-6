@@ -103,7 +103,7 @@ These insights can help businesses design better **customer retention strategies
 
 ---
 
-## Project Structure
+## 📁 Project Structure
 
 ```
 Customer-Churn-Analysis
