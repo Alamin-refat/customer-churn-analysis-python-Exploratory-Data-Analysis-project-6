@@ -17,7 +17,7 @@ Using exploratory data analysis (EDA), the dataset is cleaned, transformed, and 
 
 ---
 
-## Objectives
+## 🎯 Objectives
 
 * Understand the distribution of churned vs retained customers
 * Identify factors that influence customer churn
