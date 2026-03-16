@@ -106,11 +106,19 @@ These insights can help businesses design better **customer retention strategies
 ## 📁 Project Structure
 
 ```
-Customer-Churn-Analysis
+customer-churn-analysis-python-Exploratory-Data-Analysis-project-6/
 │
-├── Customer Churn.csv
-├── customer churn analysis.ipynb
-└── README.md
+├── assests/                          # Folder for images or other assets
+│
+├── dataset/                          # Folder containing the raw data
+│ └── Customer Churn.csv              # The main dataset file
+│
+├── jupyter notebook/                 # Folder for the analysis notebook
+│ └── customer churn analysis.ipynb   # Main Jupyter Notebook with the EDA code
+│
+├── LICENSE                           # MIT License file
+│
+└── README.md                         # Project overview and instructions (this file)
 ```
 
 ---
