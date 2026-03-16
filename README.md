@@ -9,7 +9,7 @@
 ![EDA](https://img.shields.io/badge/EDA-Exploratory%20Data%20Analysis-green)
 ![Dataset](https://img.shields.io/badge/Dataset-Customer%20Churn-red)
 
-## Project Overview
+## 📌 Project Overview
 
 This project focuses on analyzing **customer churn behavior** using data analysis and visualization techniques in Python. The goal is to identify patterns and key factors that influence customer churn so businesses can take proactive steps to improve customer retention.
 
