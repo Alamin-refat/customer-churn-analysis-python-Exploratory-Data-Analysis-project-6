@@ -52,7 +52,7 @@ The dataset contains **7043 customer records** with **21 features**, including:
 
 ---
 
-## Data Cleaning & Preprocessing
+## 🧹 Data Cleaning & Preprocessing
 
 Several preprocessing steps were performed to prepare the data for analysis:
 
