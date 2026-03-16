@@ -79,7 +79,7 @@ Visualization tools like **Matplotlib** and **Seaborn** were used to create clea
 
 ---
 
-## Key Insights
+## 📈 Key Insights
 
 Some important insights from the analysis include:
 
