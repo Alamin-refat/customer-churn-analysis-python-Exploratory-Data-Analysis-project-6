@@ -27,7 +27,7 @@ Using exploratory data analysis (EDA), the dataset is cleaned, transformed, and 
 
 ---
 
-## Dataset Information
+## 📂 Dataset Information
 
 The dataset contains **7043 customer records** with **21 features**, including:
 
