@@ -63,7 +63,7 @@ Several preprocessing steps were performed to prepare the data for analysis:
 
 ---
 
-## Exploratory Data Analysis (EDA)
+## 🔍 Exploratory Data Analysis (EDA)
 
 The project includes multiple visualizations to analyze churn behavior, such as:
 
